@@ -1,5 +1,11 @@
 ## lmtx`s 项目模板
 
+模板修改项：
+
+- 库中未添加任何三方依赖
+- public 目录的 index.html 中使用淘宝 reset.css 并取消文字样式
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
